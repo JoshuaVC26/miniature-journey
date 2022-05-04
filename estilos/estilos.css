@@ -1,0 +1,59 @@
+.jumbotron {
+    background-image: url(../Img/hacker-4031973_640.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    color: white;
+    text-shadow: 0 0 5px #000;
+}
+
+.nleft{
+    background-image: url(../Img/Hacker\ azul\ buena.png);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+
+.nright{
+background-color: dimgray;
+    height: auto;
+    color:white;
+}
+
+.row img{
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+
+main img{
+    max-height:46rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
