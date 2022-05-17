@@ -7,6 +7,72 @@
     text-shadow: 0 0 5px #000;
 }
 
+.jumbotron h1{
+    font-size:5.5em;
+    font-family: cursive;
+}
+
+.jumbotron p{
+    font-size:2.5em;
+    font-weight:bold;
+    font-family: cursive;
+}
+
+.quienSoy{
+    font-size:3.5em;
+    font-family: cursive;
+    text-align:center;
+    background-color:black;
+    color:white;
+    padding: 20px 20px 40px 20px;
+}
+
+.queHago{
+    background-color:black;
+    color:white;
+    font-size:3.5em;
+    font-family: cursive;
+    text-align:center;
+    padding: 20px 20px 40px 20px;
+}
+
+.texto{
+    color:white;
+    font-size:2.5em;
+    font-weight:bold;
+    text-align: center;
+}
+
+.presenTa{
+    background-color:gray;
+    font-size:3.5em;
+    text-align:center;
+    padding: 20px 20px 30px 20px;
+}
+
+.tiTulo{
+    background-color:black;
+    color:white;
+    font-size:3.5em;
+    text-align:center;
+    font-weight:bold;
+    padding: 20px 20px 30px 20px;
+}
+
+.botones{
+    margin-top:30px;
+    padding: 20px 10px 10px 10px;
+}
+
+.forMula{
+    background-color:black;
+    color:white;
+    font-size: 3.5em;
+    font-family:cursive ;
+    text-align:center;
+    padding: 20px 20px 30px 20px;
+}
+
 .nleft{
     background-image: url(../Img/Hacker\ azul\ buena.png);
     background-size: cover;
@@ -30,6 +96,9 @@ main img{
     max-height:46rem;
 }
 
+button{
+    width:200px;
+}
 
 
 
